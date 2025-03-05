@@ -16,21 +16,39 @@ Resumen: GitHub es una plataforma en línea donde los programadores pueden guard
 
 Listado: 
 1 git init: Función :.git que hará el seguimiento de los cambios.
+
+
 2 git clone [url]
 Función : Clona un repositorio remoto (por ejemplo, desde GitHub) en tu máquina local.
+
+
 3 git status
 Función : Muestra el estado de los archivos en el repositorio, indicando si hay cambios pendientes por hacer commit
+
+
 4 git add [archivo]
 Función : Agrega un archivo específico al área de preparación (staging area) para que esté listo para el commit. Si quieres agregar todos los archivos, puedes u git add .
+
+
 5 git commit -m "mensaje"
 Función : Realiza un commit con los cambios que se han agregado al á
+
+
 6 git push
 Función : Envía tus cambios locales
+
+
 7 git branch
 Función: Muestra las ramas existentes en tugit branch [nombre de rama]
+
+
 8 git checkout [rama]
 Función : Cambia a la rama indicada. Puedes usar
+
+
 9 git remote -v
 Función : Muestra las URL de los repositorios
+
+
 10 git reset [archivo]
 Función : Eliminar un archivo del área de --hard).
