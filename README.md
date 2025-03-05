@@ -15,6 +15,7 @@ Resumen: GitHub es una plataforma en línea donde los programadores pueden guard
 
 
 Listado: 
+
 1 git init: Función :.git que hará el seguimiento de los cambios.
 
 
